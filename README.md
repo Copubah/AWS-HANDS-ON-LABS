@@ -2,7 +2,7 @@
 
 - This guide will walk you through the steps to launch a single EC2 instance on a public subnet, accessible over the internet via SSH.
 
-
+## Architecture diagram
 ![Architecture diagram](Assets/lab%20001.png)
 
 
