@@ -1,5 +1,4 @@
-# Launching a Single EC2 Instance on a Public Subnet
-
+# Using Secure Shell (SSH) to access an Amazon Linux Machine Image(AMI)
 - This guide will walk you through the steps to launch a single EC2 instance on a public subnet, accessible over the internet via SSH.
 
 ## Architecture diagram
